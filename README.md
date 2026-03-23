@@ -2,24 +2,24 @@
 
 Aplicação web para busca de filmes com o tema escuro, desenvolvida com html, css e JavaScript puro, consumindo a OMDb API 
 
-### 🚀 Funcionalidades
+###  Funcionalidades
 
-- 🔍 Busca por filmes em tempo real
+- Busca por filmes em tempo real
 
-- 🖼️ Exibe pôster, titulo e ano de cada resultado
+- Exibe pôster, titulo e ano de cada resultado
 
-- ⚠️ Tratamento de erros por ausência de resultados
+- Tratamento de erros por ausência de resultados
 
-- 📱 Layout responsivo e centralizado
+- Layout responsivo e centralizado
 
-### 🛠️ Tecnologias
+###  Tecnologias
 
 - HTML5
 - CSS3
 - JavaScript (ES6+ com módulos)
 - [OMDb API](https://www.omdbapi.com/)
 
-### 📁 Estrutura do projeto
+###  Estrutura do projeto
  
 ```
 avaliacao-imdb/
@@ -31,7 +31,7 @@ avaliacao-imdb/
         └── dadosApi.js
 ```
 
-### ⚙️ Como usar
+###  Como usar
 
 1 - Clone o repositório 
 
@@ -39,7 +39,7 @@ avaliacao-imdb/
 
 3 - Digite o nome de um filme no campo de busca e clique em **Buscar** ou pressione `Enter`.
 
-⚠️ Observações
+ Observações
 
 Pelo fato da api ser estrangeira, o nome do filme deve ser pesquisado em inglês.
 
